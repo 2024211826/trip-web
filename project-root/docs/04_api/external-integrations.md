@@ -205,7 +205,7 @@
 - [地理/逆地理编码](https://lbs.amap.com/api/webservice/guide/api/georegeo)
 - [输入提示](https://lbs.amap.com/api/webservice/guide/api-advanced/inputtips)
 - [错误码说明](https://lbs.amap.com/api/webservice/guide/tools/info)
-- [JavaScript API](https://lbs.amap.com/api/javascriptapi/reference/index)
+- [JavaScript API](https://lbs.amap.com/api/javascript-api-v2/summary)
 
 ### 当前是否阻塞 MVP
 **部分阻塞**：
